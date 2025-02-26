@@ -1,4 +1,5 @@
-//Código padrão para incluir Projetos do Asana, foi pensado para projetos da Equipe: Topografia
+//Código padrão para incluir Projetos do Asana
+//Esse código foi pensado para projetos da MONTEC dentro do Asana
 let
     // Define o GID do projeto do Asana a ser consultado
     IdProjeto = "GID do Projeto",
