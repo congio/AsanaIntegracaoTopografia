@@ -40,7 +40,7 @@ pip install -r requirements.txt
 1. Configure `.env` com as credenciais do seu projeto
 2. Execute o script:
    ```bash
-   python extrator.py
+   NOME_DO_PROJETO.py
    ```
 3. O arquivo `.xlsx` será salvo automaticamente em:
    ```
